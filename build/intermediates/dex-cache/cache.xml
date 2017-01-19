@@ -79,7 +79,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="689b9f03420754ef37d95302a4e2c86a1238e918">
+        sha1="3ec07066db85dd95dd662f2a10f83759b60114e2">
         <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_3084b9979c7d9c20267f85b3a2fa0a4b466ff9fc.jar" />
     </item>
     <item
@@ -106,7 +106,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="020535e3eed878d8dd3c282c43ba80d7dec3c024">
+        sha1="231a4fd451daacc2477c5da07eaa5995623222d9">
         <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/instant-run_ad4c08610cc88d4521022136987ef0e629b6accd.jar" />
     </item>
     <item
