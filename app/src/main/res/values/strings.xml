@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Звукислов</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_user_book">Мои книги</string>
+    <string name="action_login">Вход и Регистрация</string>
+    <string name="search_hint">Поиск</string>
+
+    <string name="play"><![CDATA[>]]></string>
+    <string name="rewind"><![CDATA[<<]]></string>
+    <string name="forward"><![CDATA[>>]]></string>
+    <string name="pause">||</string>
+</resources>

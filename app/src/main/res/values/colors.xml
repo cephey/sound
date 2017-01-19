@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000</color>
+    <color name="orange">#FA0</color>
+    <color name="white">#FFF</color>
+
+    <color name="actionBar">#00a5b8</color>
+    <color name="tabBar">#006773</color>
+    <color name="tabActiveItem">#dedb00</color>
+
+    <color name="material_blue_grey">#ff37474f</color>
+
+    <color name="colorPrimary">#1c90ec</color>
+    <color name="colorPrimaryDark">#1570c0</color>
+    <color name="colorAccent">#d71356</color>
+</resources>

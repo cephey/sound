@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.2/20f6463eb19ac61960c5d91a094c2f4f0727dc2e/okhttp-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="20f6463eb19ac61960c5d91a094c2f4f0727dc2e">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/okhttp-2.7.2_92f6457b262e1254ecefe598430bec6f128f5297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_423b77e909df28413f6de5c88ad22285c2955818.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/okio-1.6.0_1290f48fdce1a47db8c8a0a8ce6386e7c489e751.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_fbcacb1b68d9093333a04f3c54191dc16c1a2234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ce9ba5dfbc35568bd94c1ab6bd2e78b778ecd3e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.3.1/2c4076b466a0eb4d6ddf5721edd35cd1adc1f317/stetho-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2c4076b466a0eb4d6ddf5721edd35cd1adc1f317">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/stetho-1.3.1_b97f0d3b600d59556f87f94df1bc58998ae5ca1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_c2fdc5d8de75ab64cb7e77d9ac834ffc41412351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cfab40add5dfe6ea1a1ae1d590fa9c2921fbc0ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="689b9f03420754ef37d95302a4e2c86a1238e918">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_3084b9979c7d9c20267f85b3a2fa0a4b466ff9fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/gson-2.7_8adcb6d737e85ae19c6c9bba05f0daeffcafc9c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_51063bf9d4c686986288d33f76cbe2b1b43f48d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="020535e3eed878d8dd3c282c43ba80d7dec3c024">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/instant-run_ad4c08610cc88d4521022136987ef0e629b6accd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1a3a3ddeb19252cff93a4b6039fed13c9d918220.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_fef6f71728689ca507667a57cdd8234accce6ba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_71b0240ef7c28bce80dbf846c73d3a96441db025.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_c7f733d8126b83fa34ccda145035865c0d0aa3ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_b9b43a6987a6cba8f9df388c12f0e3bcfe216f6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/commons-cli-1.2_1127bac7a6426ba27f2c31e2bf77cf26a415b9af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_734cbb82283a7435624ca649c06ad042a61c708a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_bb88d9284391b8728f55098f52cadb64e78270ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_b6cc0b1b5c2cc68429e90a3eb351621702a00b47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_5676f07d7898152519c409a7fcd10da00fd0279e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_f9aca1a50acb5e62f642a284b80614342a4ef4e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.3.1/74fc68939b8668d18ce02c16f33e1f60f4d2befe/stetho-okhttp-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="74fc68939b8668d18ce02c16f33e1f60f4d2befe">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.3.1_92346e298b5359fd53eeef2e6578c9d02b05f7f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_b3308b2950e01aaa9b1b8684489625f74efe51e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_08bb9099b8521af88b26cecc6ccb0e8ea768f292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ptitsyn/projects/sound/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/ptitsyn/projects/sound/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ee967f0bee4df4b7d7b3b34090019fba0ad432f3.jar" />
+    </item>
+
+</items>

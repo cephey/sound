@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="Мои книги"
+        android:id="@+id/nav_item_user_book"
+        android:icon="@drawable/ic_action_book"/>
+
+    <item android:title="Библиотека"
+        android:id="@+id/nav_item_catalog"
+        android:icon="@drawable/ic_view_carousel"/>
+
+    <!--<item android:title="Drafts"-->
+        <!--android:id="@+id/nav_item_draft"-->
+        <!--android:icon="@drawable/draft"/>-->
+
+
+
+    <!--<item android:title="Others">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:title="Spam"-->
+                <!--android:icon="@drawable/spam"/>-->
+            <!--<item-->
+                <!--android:title="Bin"-->
+                <!--android:icon="@drawable/bin"/>-->
+        <!--</menu>-->
+    <!--</item>-->
+
+    <group android:id="@+id/group_settings_id">
+
+        <item android:title="@string/action_settings"
+            android:id="@+id/nav_item_settings"
+            android:icon="@drawable/ic_settings"/>
+        <item android:title="Вход и регистрация"
+            android:id="@+id/nav_item_login"
+            android:icon="@drawable/ic_action_key"/>
+    </group>
+
+
+</menu>
